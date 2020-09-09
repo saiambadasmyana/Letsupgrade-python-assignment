@@ -38,6 +38,7 @@ class bankaccount():
  
 #operations
 customer1 = bankaccount ("kumar",0)
+response="blank"
 while response !="D" or response !="W":
     response=input("Enter D to depost or W to withdraw C to cancel the operation")
     if response == "D":
