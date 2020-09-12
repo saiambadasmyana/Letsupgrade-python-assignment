@@ -13,11 +13,11 @@ PyLint and Unittest Library.
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile test_primeone.py
 # '''
-# This is a module to check weather the given number is even or odd.''
+# This is a module to check weather the given number is prime of not.''
 # '''
 # def prime(number):
 #     '''
-#     This is the main function which check out the given number is even or odd.
+#     This is the main function which check out the given number is prime or not.
 #     '''
 #     if number>1:
 #         for i in range(2, number):
